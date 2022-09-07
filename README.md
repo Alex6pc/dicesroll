@@ -1,2 +1,0 @@
-# dicesroll
-Dice rolling game
